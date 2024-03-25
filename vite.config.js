@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://Johan-Alejandro.github.io/adopta-perros",
+  base: "https://johan-alejandro.github.io/adopta-perros",
 });
